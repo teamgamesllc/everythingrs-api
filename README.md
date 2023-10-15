@@ -1,0 +1,1 @@
+Our EverythingRS Core API is Licensed Under Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en
